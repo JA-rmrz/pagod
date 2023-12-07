@@ -1,14 +1,14 @@
 body 
 {
     background-color: darkgray;
-    margin-top: 2.5%;
+    margin-top: 0.5%;
 }
 a
 {
     word-spacing: -5px;
-    line-height: .4;
+    line-height: .2;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: blueviolet;
-    text-shadow: -1px -1px gray;
+    text-shadow: 2px 2px gray;
     font-size: 300%;
 }
